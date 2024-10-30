@@ -1,6 +1,4 @@
 <h1 align="center">React Native - Projeto Cronômetro </h1>
-
-# 🛠 Sobre o Projeto RN - Cronômetro
 <p align="center">
 <img src="./img/readme.jpeg" width="30%" height="auto" />
 </p>
