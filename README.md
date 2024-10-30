@@ -1,18 +1,9 @@
 <h1 align="center">React Native - Projeto Cronômetro </h1>
 
-# Índice
-- [Índice](#índice)
-- [🛠 Sobre o Projeto RN - Cronômetro](#-sobre-o-projeto-rn---cronômetro)
-- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-- [📥 Como usar](#-como-usar)
-- [🚀 Developer](#-developer)
-- [📞 Contate a Dev](#-contate-a-dev)
-  
----
 # 🛠 Sobre o Projeto RN - Cronômetro
-
+<p align="center">
 <img src="./img/readme.jpeg" width="100%" height="auto" />
-
+</p>
 
 # 🚀 Tecnologias utilizadas neste projeto
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
